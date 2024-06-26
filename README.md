@@ -13,6 +13,7 @@ Ensure you have the following Python libraries installed:
 
 <b>Installation</b> <br>
 Install the required libraries using pip: <br>
+- pip install nltk
 - pip install nltk scikit-learn
 
 <b>Usage</b> <br>
